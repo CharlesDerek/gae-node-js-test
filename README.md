@@ -30,6 +30,10 @@ This chat example showcases how to use `socket.io` with a static `express` serve
 `app.js` and start the app by clicking on the "Run" button in the top menu.
 
 2) Alternatively you can launch the app from the Terminal (make sure youre in {/yp-refactored/gaeDeploy/nodejs-docs-samples/appengine/static-files} Directory)!
+    
+        $ cd 
+            # For quick redirect reference..
+        $ cd workspace/yp-refactored/gaeDeploy/nodejs-docs-samples/appengine/static-files
 
     $ npm install
 
